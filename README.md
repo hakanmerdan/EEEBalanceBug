@@ -12,8 +12,15 @@ You are requested to design and build a balancing robot (segway) that can autono
 
 ## Deliverables and Assessments
 
-### Interim Presentation
+Date of submission: 20 June 2023 
+The report is a formal documentation of all the technical and non-technical work you have done on the project. The report should justify all your design decisions and include test results of various aspects of your prototype. One team member should act as overall editor to ensure that the report is consistent in style and content.
+Marks weighting: 40%
 
+### Interim Presentation
+**Date of assessment:  1 June 2023**
+
+The interim presentation is an opportunity to show your progress mid-way through the project. You should prepare a presentation showing your high-level design, research and technical progress so far. You should also present a plan, e.g. Gantt chart, for the remaining task to complete the project.
+Marks weighting: 20%
 
 ### Report
 
