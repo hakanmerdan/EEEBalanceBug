@@ -95,7 +95,7 @@ You may wish to consider 3D printing, though you will need to research and teach
 
 ### Demo Environment
 
-*** ***(NEED EXPLANATION AND PHOTO OF THE DEMO MAZE)
+*** (NEED EXPLANATION AND PHOTO OF THE DEMO MAZE) ***
 
 
 ### New Skills
