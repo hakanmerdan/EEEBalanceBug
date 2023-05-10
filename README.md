@@ -10,6 +10,16 @@ You will work in tutorial groups of 6 (2 EEE and 4 EIE) people to complete the p
 
 You are requested to design and build a balancing robot (segway) that can autonomously map and navigate a maze. A prototype of the design must be built and tested in the artificial maze in the lab. The maze is laid out with light strips on an arena. The arena is coloured black and surrounded by black curtains.
 
+![maze_1](https://github.com/hakanmerdan/EEESegway/assets/85967283/96d75358-97a4-448e-8e47-b80029e69f10)
+
+The quality of the design will be assessed against the following criteria:
+•	Is it possible to find and identify the obstacles?
+•	Is the design cost and weight effective?
+•	Is the segway good enough to maintain its balance?
+•	Is the construction robust and reliable?
+•	Is the remote-control interface logical and easy to use?
+
+
 ## Deliverables and Assessments
 
 Date of submission: 20 June 2023 
@@ -35,7 +45,7 @@ Marks weighting: 40%
 
 The demo is your opportunity to present your completed project. There are two parts to the demo:
 1.	An assessment of your segway on the lab bench, where your examiner will ask to see different functional aspects and assess your theoretical understanding of the implementation.
-2.	A test of your segway on the demonstration arena, where.
+2.	A test of your segway on the demonstration arena, where (DO EXPLAIN ARENA).
 
 Marks weighting: 40%
 
