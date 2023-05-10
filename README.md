@@ -20,6 +20,7 @@ Marks weighting: 40%
 **Date of assessment:  1 June 2023**
 
 The interim presentation is an opportunity to show your progress mid-way through the project. You should prepare a presentation showing your high-level design, research and technical progress so far. You should also present a plan, e.g. Gantt chart, for the remaining task to complete the project.
+
 Marks weighting: 20%
 
 ### Report
