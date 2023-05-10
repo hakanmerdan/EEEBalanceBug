@@ -64,6 +64,7 @@ The central PCB has connections for a motor driver module, which will simplify t
 -	Battery Pack 
 -	Inertial measurement unit (MPU6050)
 -	Stepper motors and drivers (NEMA-17 Stepper motor and A4988 Stepper Motor Drivers)
+-	Breadboard and Various of Components in the Lab
 
 #### Connection and Structural Elements 
 
