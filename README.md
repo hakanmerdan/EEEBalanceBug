@@ -49,3 +49,37 @@ The demo is your opportunity to present your completed project. There are two pa
 
 Marks weighting: 40%
 
+## Getting started
+				.
+### EEEBug Expansion Kit
+Your EEEBug has been designed to support modification for work on this project.
+The Orangepip will be replaced with an ARM-based microcontroller platform with a WiFi module, but you can continue to develop code using the Arduino framework and IDE.
+The central PCB has connections for a motor driver module, which will simplify the challenge of steering and reversing your rover.
+			
+### Sensing
+You should use the outcome of your lab experiments to develop ideas for making sensors and analogue interfaces to detect the signals.
+The EEEBug experiment showed you an example of an optical sensor.
+The Passive Networks experiment (Autumn Term) introduces the concept of resonant circuits which, if the inductor is suitably constructed and orientated, will oscillate in the presence of radio waves of the correct frequency.
+Magnetic sensors are not covered directly in the labs and you should carry out your own research in this area.
+			
+In certain cases you may wish to detect particular frequencies while blocking others, and you have explored to do this with passive and opamp-based circuits.
+Some sensors will produce a weak signal that will need amplification.
+
+Signals will need to be converted into the digital domain for transmission back to the rover operator.
+Consider whether a binary input is sufficient, or you need to measure the voltage with more precision.
+Research software libraries that can help you determine time-domain characteristics such as frequency or serial data encoding.
+			
+### Construction
+Mechanical design is not a core component of the EEE/EIE degree so it is left to you to be innovative in the construction of your rover.
+The EEEBug chassis is designed to be a useful platform but feel free to modify it, taking into account the budget and weight constraints.
+			
+You can download a computer-aided manufacturing (CAM) drawing of the chassis, which can be modified for reproduction in acrylic with a laser cutter.
+Workshop facilities are available on arrangement with the lab technicians.
+You may wish to consider 3D printing, though you will need to research and teach yourself the necessary techniques first.
+3D printers are available to use with the help of the lab technicians.	
+
+### Demo Environment
+The demo environment has a smooth floor with some uncrossable obstacles.
+Aliens will be distributed across the environment, spaced at least 500mm apart.
+Some aliens are very sensitive and they won't communicate if a heavy rover is nearby.
+The arena is fitted with sensors in one area to check the weight of your rover.
