@@ -71,18 +71,12 @@ The central PCB has connections for a motor driver module, which will simplify t
 -	Screws, nuts, spacers
 
 		
-### Sensing
-You should use the outcome of your lab experiments to develop ideas for making sensors and analogue interfaces to detect the signals.
-The EEEBug experiment showed you an example of an optical sensor.
-The Passive Networks experiment (Autumn Term) introduces the concept of resonant circuits which, if the inductor is suitably constructed and orientated, will oscillate in the presence of radio waves of the correct frequency.
-Magnetic sensors are not covered directly in the labs and you should carry out your own research in this area.
-			
-In certain cases you may wish to detect particular frequencies while blocking others, and you have explored to do this with passive and opamp-based circuits.
-Some sensors will produce a weak signal that will need amplification.
+### Drive
 
-Signals will need to be converted into the digital domain for transmission back to the rover operator.
-Consider whether a binary input is sufficient, or you need to measure the voltage with more precision.
-Research software libraries that can help you determine time-domain characteristics such as frequency or serial data encoding.
+
+### Sensing
+
+
 			
 ### Construction
 Mechanical design is not a core component of the EEE/EIE degree so it is left to you to be innovative in the construction of your segway.
