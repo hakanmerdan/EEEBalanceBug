@@ -24,6 +24,18 @@ The interim presentation is an opportunity to show your progress mid-way through
 Marks weighting: 20%
 
 ### Report
+**Date of assessment:  20 June 2023**
 
+The report is a formal documentation of all the technical and non-technical work you have done on the project. The report should justify all your design decisions and include test results of various aspects of your prototype. One team member should act as overall editor to ensure that the report is consistent in style and content.
+
+Marks weighting: 40%
 
 ### Demo
+**Date of assessment:  23 June 2023**
+
+The demo is your opportunity to present your completed project. There are two parts to the demo:
+1.	An assessment of your segway on the lab bench, where your examiner will ask to see different functional aspects and assess your theoretical understanding of the implementation.
+2.	A test of your segway on the demonstration arena, where.
+
+Marks weighting: 40%
+
