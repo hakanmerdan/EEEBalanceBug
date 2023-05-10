@@ -24,6 +24,7 @@ The quality of the design will be assessed against the following criteria:
 
 Date of submission: 20 June 2023 
 The report is a formal documentation of all the technical and non-technical work you have done on the project. The report should justify all your design decisions and include test results of various aspects of your prototype. One team member should act as overall editor to ensure that the report is consistent in style and content.
+
 Marks weighting: 40%
 
 ### Interim Presentation
@@ -51,11 +52,26 @@ Marks weighting: 40%
 
 ## Getting started
 				.
-### EEEBug Expansion Kit
-Your EEEBug has been designed to support modification for work on this project.
-The Orangepip will be replaced with an ARM-based microcontroller platform with a WiFi module, but you can continue to develop code using the Arduino framework and IDE.
+### Balancing Robot (EEESegway) Kit
+
+Your EEESegway has been designed to support modification for work on this project. The Orangepip will be replaced with an ARM-based microcontroller platform with a WiFi module, but you can continue to develop code using the Arduino framework and IDE.
 The central PCB has connections for a motor driver module, which will simplify the challenge of steering and reversing your rover.
-			
+
+#### Robot Hardware
+
+-	FPGA board (FPGA Max DE-10 lite)
+-	Camera
+-	WiFi microcontroller (ESP32)
+-	Battery Pack 
+-	Inertial measurement unit (MPU6050)
+-	Stepper motors and drivers (NEMA-17 Stepper motor and A4988 Stepper Motor Drivers)
+
+#### Connection and Structural Elements 
+
+-	3D printed chassis and mounting sockets, parts.
+-	Screws, nuts, spacers
+
+		
 ### Sensing
 You should use the outcome of your lab experiments to develop ideas for making sensors and analogue interfaces to detect the signals.
 The EEEBug experiment showed you an example of an optical sensor.
@@ -70,8 +86,8 @@ Consider whether a binary input is sufficient, or you need to measure the voltag
 Research software libraries that can help you determine time-domain characteristics such as frequency or serial data encoding.
 			
 ### Construction
-Mechanical design is not a core component of the EEE/EIE degree so it is left to you to be innovative in the construction of your rover.
-The EEEBug chassis is designed to be a useful platform but feel free to modify it, taking into account the budget and weight constraints.
+Mechanical design is not a core component of the EEE/EIE degree so it is left to you to be innovative in the construction of your segway.
+The given chassis is designed to be a useful platform but feel free to modify it, taking into account the budget and weight constraints.
 			
 You can download a computer-aided manufacturing (CAM) drawing of the chassis, which can be modified for reproduction in acrylic with a laser cutter.
 Workshop facilities are available on arrangement with the lab technicians.
@@ -79,7 +95,16 @@ You may wish to consider 3D printing, though you will need to research and teach
 3D printers are available to use with the help of the lab technicians.	
 
 ### Demo Environment
-The demo environment has a smooth floor with some uncrossable obstacles.
-Aliens will be distributed across the environment, spaced at least 500mm apart.
-Some aliens are very sensitive and they won't communicate if a heavy rover is nearby.
-The arena is fitted with sensors in one area to check the weight of your rover.
+
+*** ***(NEED EXPLANATION AND PHOTO OF THE DEMO MAZE)
+
+
+### New Skills
+
+-	Project Management
+-	Complex System Engineering
+-	Top-Down Approach
+-	Documentation
+-	Group Work
+-	Problem Solving
+
