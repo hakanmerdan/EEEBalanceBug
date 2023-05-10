@@ -50,8 +50,7 @@ The demo is your opportunity to present your completed project. There are two pa
 
 Marks weighting: 40%
 
-## Getting started
-				.
+## Getting started	.
 ### Balancing Robot (EEESegway) Kit
 
 Your EEESegway has been designed to support modification for work on this project. The Orangepip will be replaced with an ARM-based microcontroller platform with a WiFi module, but you can continue to develop code using the Arduino framework and IDE.
