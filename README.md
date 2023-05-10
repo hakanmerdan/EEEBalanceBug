@@ -13,11 +13,11 @@ You are requested to design and build a balancing robot (segway) that can autono
 ![maze_1](https://github.com/hakanmerdan/EEESegway/assets/85967283/96d75358-97a4-448e-8e47-b80029e69f10)
 
 The quality of the design will be assessed against the following criteria:
-•	Is it possible to find and identify the obstacles?
-•	Is the design cost and weight effective?
-•	Is the segway good enough to maintain its balance?
-•	Is the construction robust and reliable?
-•	Is the remote-control interface logical and easy to use?
+-	Is it possible to find and identify the obstacles?
+-	Is the design cost and weight effective?
+-	Is the segway good enough to maintain its balance?
+-	Is the construction robust and reliable?
+-	Is the remote-control interface logical and easy to use?
 
 
 ## Deliverables and Assessments
