@@ -22,10 +22,7 @@ The quality of the design will be assessed against the following criteria:
 
 ## Deliverables and Assessments
 
-Date of submission: 20 June 2023 
-The report is a formal documentation of all the technical and non-technical work you have done on the project. The report should justify all your design decisions and include test results of various aspects of your prototype. One team member should act as overall editor to ensure that the report is consistent in style and content.
-
-Marks weighting: 40%
+The project will be assessed with an interim interview, a final report and a 10-min demonstration in the arena.
 
 ### Interim Presentation
 **Date of assessment:  1 June 2023**
@@ -63,7 +60,7 @@ The central PCB has connections for a motor driver module, which will simplify t
 -	WiFi microcontroller (ESP32)
 -	Battery Pack 
 -	Inertial measurement unit (MPU6050)
--	Stepper motors and drivers (NEMA-17 Stepper motor and A4988 Stepper Motor Drivers)
+-	Stepper motors and drivers (NEMA-17 Stepper motors and A4988 Stepper Motor Drivers)
 -	Breadboard and Various of Components in the Lab
 
 #### Connection and Structural Elements 
