@@ -1,6 +1,6 @@
 ### Bills of Material
 
-| Part Name  | Each Group	 | In Total (38 Group) |
+| Part Name  | Each Group	 | In Total (38 Groups) |
 | ------------- | ------------- | ------------- | 
 | ESP32 Dev Kit | 1  |  38  |
 | A4988 Stepper Motor Driver with heatsink | 2  | 76 |
