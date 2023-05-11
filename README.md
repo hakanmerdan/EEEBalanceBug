@@ -50,7 +50,7 @@ Marks weighting: 40%
 ## Getting started	.
 ### Balancing Robot (EEESegway) Kit
 
-Your EEESegway has been designed to support modification for work on this project. The Orangepip will be replaced with an ARM-based microcontroller platform with a WiFi module, but you can continue to develop code using the Arduino framework and IDE.
+Your EEESegway has been designed to support modification for work on this project. You will be using ARM-based microcontroller platform with a WiFi module (ESP32), you can continue to develop code using the Arduino framework and IDE.
 The central PCB has connections for a motor driver module, which will simplify the challenge of steering and reversing your rover.
 
 #### Robot Hardware
