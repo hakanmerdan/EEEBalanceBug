@@ -3,7 +3,7 @@
 | Part Name  | Each Group	 | In Total (38 Group) |
 | ------------- | ------------- | ------------- | 
 | ESP32 Dev Kit | 1  |  38  |
-| A4988 Stepper Motor Driver with heatsink  | 2  | | 76  |
+| A4988 Stepper Motor Driver with heatsink  | 2  |  76  |
 | MPU-6050 Gyroscope  | 1  |  38  |
 | DE10-Lite FPGA| 1  |  38  |
 | Camera  | 1 | 38  |
