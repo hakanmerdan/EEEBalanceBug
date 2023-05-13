@@ -12,4 +12,4 @@
 - An short intro to a react library for polling
 (the required section is self contained, not related to the material in the optional section)
 
-**NOTE: the code given in the optional documents is only for demonstrative purposes and not usable in the project. Relevant code from the required documents may be used in the project.*** 
+**NOTE: the code given in the optional documents is only for demonstrative purposes and not usable in the project. Relevant code from the required documents may be used in the project.**
