@@ -1,4 +1,4 @@
-Optional documents contain:
+**Optional documents contain:
 - A tutorial on basic javascript
 - A tuturial on how to set up node.js on ec2 (AWS)
 - Intro to HTML and client server programming without a framework like React
@@ -6,7 +6,7 @@ Optional documents contain:
 **If you already have some expererience with Javascript and HTML, it will be sufficient to only cover the bits about node and express.** 
 
 
-*Required documents contain:
+**Required documents contain:
 - A tutorial on React and node
 - A tutorial on how to set up MySQL on ec2
 - An short intro to a react library for polling
