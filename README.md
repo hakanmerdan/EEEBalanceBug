@@ -117,7 +117,7 @@ You may wish to consider 3D printing, though you will need to research and teach
 | Results | 25%  | High-quality evidence that solution meets all requirements at both subsystem level and top level. Appropriate tests designed. |  | Testing incomplete or not relevant to specifications. Doubts over accuracy of results |
 | Teamworking | 15%  | Documentation of group member contributions to the project. Integrated report with consistent style and formatting. |  | Sections from different authors compiled with little overall editing. Basic content on system-level design and implementation |
 | **Interview and Demo (23/06/23)** | **40%**  |  |  |  |
-| Performance |  15% | Rover completes demo task quickly and accurately. |  | Rover fails to complete demonstration |
+| Performance |  15% | BalanceBug completes demo task quickly and accurately. |  | BalanceBug fails to complete demonstration |
 | Design Quality| 35%  | Implementation meets non-functional requirements. Innovative design and robust, professional implementation that demonstrates technical skill. |  | Implementation hampered by poor construction quality or dubious design decisions |
 | Technical understanding  | 35%  | All technical questions answered accurately, showing complete understanding of the design challenges and solution. |  | Some aspects of the implementation cannot be explained |
 | Teamworking | 15%  | Evidence of group members working together to complete project. Individuals demonstrate different areas of expertise in the project. |  | Contribution of some team members unclear. Technical understanding concentrated in a small number of group members |
