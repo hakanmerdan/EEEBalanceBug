@@ -1,5 +1,26 @@
 ### Motor Drive
-####Stepper motor driver pinout:
+
+#### ESP32 Pinout
+
+
+#### NEMA 17 Stepper Motor
+
+
+
+#### Stepper Motor Driver (A4988)
+
+
+#### Inertial Measurement Unit (MPU-6050)
+
+
+
+#### Fundamentals of I2C Communication
+
+
+#### NiMH Battery Pack Connection
+
+
+#### FPGA (DE10-Lite) and Camera (D8M) Connection
 
 The A4988 driver has a total of 16 pins that connect it to the outside world. The pinout is as follows:
 
