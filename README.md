@@ -102,30 +102,26 @@ You may wish to consider 3D printing, though you will need to research and teach
 
 ### Marking Scheme
 
-Component | Weight | High Mark | Middle Mark | Low Mark
-**Interim Presentation** | **20%** | | | |
-
-
 
 | Component   | Weight	 | High Mark |  Middle Mark | Low Mark |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | **Interim Presentation** | **20%**  |    |   |    |
-| A4988 Stepper Motor Driver with heatsink | 2  | 76 |
-| MPU-6050 Gyroscope  | 1  |  38  |
-| DE10-Lite FPGA| 1  |  38  |
-| Camera D8M | 1 | 38  |
-| Switching Regulator Module  | 1  |  38  |
-| 7.2V NiMH Battery Pack  | 1  |  38  |
-| Tamiya Connector  | 1  | 38  |
-| Wheels  | 2  |  76  |
-| 3D Printed Chassis | 1  |  38  |
-| 3D Printed Motor Mount Left | 1  |  38  |
-| 3D Printed Motor Mount Right | 1  |  38  |
-| Type-A to Micro-USB Cable  | 1  |  38  |
-| Breadboard (9cm x 6cm)  | 2  |  76  |
-| 100 uF Capacitor  | 1  |  38  |
-| M4 10mm screw bolt  | 4  |  152  |
-| M4 nuts  | 8  |  304  |
-| M2.5 5mm  | 16  |  608  |
-| 2cm spacer  | 12  |  456  |
+| Design progress |**30%**|  |  |  |
+| Implementation progress | **30%**  |  |  |  |
+| Planning |  **15%** |  |  |  |
+| Teamworking | **15%**  |  |  |  |
+| **Reflections on professional practice (once per week)** | **5%**  |   |  |  |
+| **Project Report (15/06/23)**	  | **35%**   |  |  |  |
+| System Design  |   |  |  |  |
+| Implementation |   |  |  |  |
+| Results |   |  |  |  |
+| Teamworking |   |  |  |  |
+| **Interview and Demo (20/06/23)** | **40%**  |  |  |  |
+| Performance |   |  |  |  |
+| Design Quality|   |  |  |  |
+| Technical understanding  |   |  |  |  |
+| Teamworking |   |  |  |  |
+| M4 nuts  |   |  |  |  |
+| M2.5 5mm |   |  |  |  |
+| 2cm spacer  |   |  |  |  |
 
