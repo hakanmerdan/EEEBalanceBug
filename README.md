@@ -100,3 +100,8 @@ You may wish to consider 3D printing, though you will need to research and teach
 -	Group Work
 -	Problem Solving
 
+### Marking Scheme
+
+Component | Weight | High Mark | Middle Mark | Low Mark
+**Interim Presentation** | **20%** | | | |
+
