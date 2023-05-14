@@ -1,6 +1,6 @@
 # ELEC50008 - Engineering Design Project 2
 ## Project Brief: EEESegway
-## Introduction
+#Real Introduction
 
 The Engineering Design Project 2 is one of the six modules that make up your second year of study. It brings together theoretical and practical content from your lectures and labs with important industrial skills relating to product design, project management and team working.
 
@@ -47,7 +47,7 @@ The demo is your opportunity to present your completed project. There are two pa
 
 Marks weighting: 40%
 
-## Getting started	.
+## Getting started
 ### Balancing Robot (EEESegway) Kit
 
 Your EEESegway has been designed to support modification for work on this project. You will be using ARM-based microcontroller platform with a WiFi module (ESP32), you can continue to develop code using the Arduino framework and IDE.
