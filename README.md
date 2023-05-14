@@ -1,6 +1,6 @@
 # ELEC50008 - Engineering Design Project 2
 ## Project Brief: EEESegway
-#Real Introduction
+## Introduction
 
 The Engineering Design Project 2 is one of the six modules that make up your second year of study. It brings together theoretical and practical content from your lectures and labs with important industrial skills relating to product design, project management and team working.
 
@@ -19,6 +19,26 @@ The quality of the design will be assessed against the following criteria:
 -	Is the construction robust and reliable?
 -	Is the remote-control interface logical and easy to use?
 
+## Beacons (?)
+
+Students can place illuminated beacons around the edge of the arena to use as visual datum points for mapping the arena. The beacons are powered by a solar energy system and students must manage their energy budget to support robot navigation under varying power availability.
+
+![beacon](https://github.com/hakanmerdan/EEESegway/assets/85967283/07288edc-cfc5-494b-8f9f-3574ec09b686)
+
+The emulated power availability will vary over the order of seconds, limiting the stored energy requirement. Storage will principally be capacitors, but flywheel or gravity-based energy storage is a possibility. Batteries will not be used in the beacon system.
+The power system will have a centralised controller that can interface with the other project components.
+
+## System design
+
+The solution will typically comprise of several subsystems:
+
+1.	Robot mechanics and dynamic control
+2.	Robot vision
+3.	Beacon management
+4.	Navigation command and user interface
+
+The solutions for the above given challenges should be and solved with teamwork
+
 
 ## Deliverables and Assessments
 
@@ -31,12 +51,14 @@ The interim presentation is an opportunity to show your progress mid-way through
 
 Marks weighting: 20%
 
+**Reflections on professional practice (once per week)** | **5%**
+
 ### Report
 **Date of assessment:  20 June 2023**
 
 The report is a formal documentation of all the technical and non-technical work you have done on the project. The report should justify all your design decisions and include test results of various aspects of your prototype. One team member should act as overall editor to ensure that the report is consistent in style and content.
 
-Marks weighting: 40%
+Marks weighting: 35%
 
 ### Demo
 **Date of assessment:  23 June 2023**
@@ -56,9 +78,9 @@ The central PCB has connections for a motor driver module, which will simplify t
 #### Robot Hardware
 
 -	FPGA board (FPGA Max DE-10 lite)
--	Camera
+-	Camera Module (D8M)
 -	WiFi microcontroller (ESP32)
--	Battery Pack 
+-	NiMH Battery Pack
 -	Inertial measurement unit (MPU6050)
 -	Stepper motors and drivers (NEMA-17 Stepper motors and A4988 Stepper Motor Drivers)
 -	Breadboard and Various of Components in the Lab
@@ -88,7 +110,7 @@ You may wish to consider 3D printing, though you will need to research and teach
 
 ### Demo Environment
 
-*** *** (NEED EXPLANATION AND PHOTO OF THE DEMO MAZE) *** ***
+*** *** (NEED EXPLANATION AND PHOTO OF THE DEMO MAZE WHEN IT IS READY) *** ***
 
 
 ### New Skills
