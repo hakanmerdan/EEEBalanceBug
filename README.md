@@ -105,10 +105,10 @@ You may wish to consider 3D printing, though you will need to research and teach
 
 | Component   | Weight	 | High Mark |  Middle Mark | Low Mark |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| **Interim Presentation** | 20%  |    |   |    |
-| Design progress |30%|  |  |  |
-| Implementation progress | 30%  |  |  |  |
-| Planning |  15% |  |  |  |
+| **Interim Presentation** | **20%**  |    |   |    |
+| Design progress |30%|Logical division of the problem into submodules. Optimal design decisions made by evaluating alternatives against specifications.  | Design decisions made but poorly justified. | Basic system design with ill-considered choice of submodules |
+| Implementation progress | 30%  | Progress demonstrated on all submodules, including circuti diagrams, simulations, test results, photographs and videos. Preliminary integration of submodules | Some successful implementation. Little or no integration of subsystems. | Little or weak evidence of progress |
+| Planning |  15% | Work so far addresses all major uncertainties and risk areas. Realistic schedule for remaining work. | Main challenges identified and work underway to address them. Remaining work identified.  | Significant uncertainties remain. Unrealistic or superficial plan for remaining work. |
 | Teamworking | 15%  |  |  |  |
 | **Reflections on professional practice (once per week)** | **5%**  |   |  |  |
 | **Project Report (15/06/23)**	  | **35%**   |  |  |  |
