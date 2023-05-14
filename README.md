@@ -105,23 +105,20 @@ You may wish to consider 3D printing, though you will need to research and teach
 
 | Component   | Weight	 | High Mark |  Middle Mark | Low Mark |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| **Interim Presentation** | **20%**  |    |   |    |
-| Design progress |**30%**|  |  |  |
-| Implementation progress | **30%**  |  |  |  |
-| Planning |  **15%** |  |  |  |
-| Teamworking | **15%**  |  |  |  |
+| **Interim Presentation** | 20%  |    |   |    |
+| Design progress |30%|  |  |  |
+| Implementation progress | 30%  |  |  |  |
+| Planning |  15% |  |  |  |
+| Teamworking | 15%  |  |  |  |
 | **Reflections on professional practice (once per week)** | **5%**  |   |  |  |
 | **Project Report (15/06/23)**	  | **35%**   |  |  |  |
-| System Design  |   |  |  |  |
-| Implementation |   |  |  |  |
-| Results |   |  |  |  |
-| Teamworking |   |  |  |  |
+| System Design  | 30%  |  |  |  |
+| Implementation |  30% |  |  |  |
+| Results | 25%  |  |  |  |
+| Teamworking | 15%  |  |  |  |
 | **Interview and Demo (20/06/23)** | **40%**  |  |  |  |
-| Performance |   |  |  |  |
-| Design Quality|   |  |  |  |
-| Technical understanding  |   |  |  |  |
-| Teamworking |   |  |  |  |
-| M4 nuts  |   |  |  |  |
-| M2.5 5mm |   |  |  |  |
-| 2cm spacer  |   |  |  |  |
+| Performance |  15% |  |  |  |
+| Design Quality| 35%  |  |  |  |
+| Technical understanding  | 35%  |  |  |  |
+| Teamworking | 15%  |  |  |  |
 
