@@ -93,11 +93,15 @@ The central PCB has connections for a motor driver module, which will simplify t
 		
 ### Drive
 
-*** *** (EXPLANATION) *** ***
+*** *** (Drive_link) *** ***
 
 ### Sensing
 
-*** *** (EXPLANATION) *** ***
+*** *** (Beacon_Camera_Vision_Link) *** ***
+
+### Energy
+
+*** Energy_Link ***
 			
 ### Construction
 Mechanical design is not a core component of the EEE/EIE degree so it is left to you to be innovative in the construction of your segway.
