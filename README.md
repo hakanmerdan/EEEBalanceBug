@@ -1,5 +1,5 @@
 # ELEC50008 - Engineering Design Project 2
-## Project Brief: EEESegway
+## Project Brief: Maze solving robot
 ## Introduction
 
 The Engineering Design Project 2 is one of the six modules that make up your second year of study. It brings together theoretical and practical content from your lectures and labs with important industrial skills relating to product design, project management and team working.
@@ -12,12 +12,30 @@ You are requested to design and build a balancing robot (segway) that can autono
 
 ![maze_1](https://github.com/hakanmerdan/EEESegway/assets/85967283/96d75358-97a4-448e-8e47-b80029e69f10)
 
-The quality of the design will be assessed against the following criteria:
--	Is it possible to find and identify the obstacles?
--	Is the design cost and weight effective?
--	Is the segway good enough to maintain its balance?
--	Is the construction robust and reliable?
--	Is the remote-control interface logical and easy to use?
+## Requirements
+
+### Functional requirements
+The system must:
+1. Autonomously move through a maze without crossing an illuminated line
+2. Autonomously survey the layout of the maze and produce a map of the discovered layout, overlaid with the position of the robot and the shortest path through the maze
+3. Balance on two wheels
+
+### Non-functional requirements
+The system must be:
+1. Reliable and able to complete its task without human intervention
+2. Robustly and efficiently constructed
+3. Coded for:
+   a. Usability
+   b. Testability
+   c. Maintainability
+   d. Scalability
+
+### Implementation restrictions
+1. The permitted means of locating the robot within the maze are:
+   a. Dead-reckoning based on accelerometer, gyroscope and wheel revolution counting
+   b. Optical detection of the maze markings and up to three illuminated beacons by the robot
+2. Illuminated beacons shall be powered by a specified PV-array emulator and provided energy conversion modules
+3. The robot will use the provided FPGA-based camera system
 
 ## Beacons (?)
 
