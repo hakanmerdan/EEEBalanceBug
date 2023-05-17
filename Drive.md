@@ -2,15 +2,21 @@
 
 #### ESP32 Pinout
 
+![ESP32-Pinout](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/17a501bc-b486-40cf-b4f4-56b1d6ca5614)
+
 
 #### NEMA 17 Stepper Motor
 
+![image](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/7e7d9788-e3dc-4e75-84a9-cef0bf36b96a)
 
 
 #### Stepper Motor Driver (A4988)
 
+![image](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/6d8ec04e-bafa-46b3-aae7-457e1552c2d2)
+
 
 #### Inertial Measurement Unit (MPU-6050)
+![MPU6050-3-axis-Accelerometer-Gyroscope-Module-Pinout](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/d9d95a46-4402-45a8-b94b-53d8cc3b72aa)
 
 
 
@@ -21,6 +27,8 @@
 
 
 #### FPGA (DE10-Lite) and Camera (D8M) Connection
+
+Use the ribbon cable to connect your Camera module (D8M) to DE10-Lite FPGA. Check the FPGA folder for reference.
 
 The A4988 driver has a total of 16 pins that connect it to the outside world. The pinout is as follows:
 
