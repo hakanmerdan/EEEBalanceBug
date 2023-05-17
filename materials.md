@@ -20,6 +20,5 @@
 | M4 10mm screw bolt  | 4  |  152  |
 | M4 nuts  | 8  |  304  |
 | M2.5 5mm  | 16  |  608  |
-| 2cm spacer  | 12  |  456  |
 
 
