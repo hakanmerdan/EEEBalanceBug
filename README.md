@@ -37,7 +37,7 @@ The system must be:
 2. Illuminated beacons shall be powered by a specified PV-array emulator and provided energy conversion modules
 3. The robot will use the provided FPGA-based camera system
 
-## Beacons (?)
+## Beacons
 
 Students can place illuminated beacons around the edge of the arena to use as visual datum points for mapping the arena. The beacons are powered by a solar energy system and students must manage their energy budget to support robot navigation under varying power availability.
 
