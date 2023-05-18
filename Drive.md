@@ -13,7 +13,6 @@ NEMA 17 is a type of motor that will be used in this project. As balancing robot
 
 ![My Image](NEMA17.png)
 
-
 #### Stepper Motor Driver (A4988)
 
 The A4988 has two different power supply connections as below:
