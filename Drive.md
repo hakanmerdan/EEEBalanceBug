@@ -88,6 +88,4 @@ You can test your gyroscope with the test code given in Test Codes folder in Git
 
 Use the ribbon cable to connect your Camera module (D8M) to DE10-Lite FPGA. Check the FPGA folder for reference.
 
-The A4988 driver has a total of 16 pins that connect it to the outside world. The pinout is as follows:
-
 
