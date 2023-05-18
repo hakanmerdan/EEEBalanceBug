@@ -79,10 +79,22 @@ After the connections made, you can test your motors with the sample code given 
 
 #### Inertial Measurement Unit (MPU-6050)
 
+MPU-6050 is an integrated module that has an accelerometer, gyroscope and temperature sensor. A gyroscope is a device that measures the orientation and angular velocity. An accelerometer measures the acceleration of a moving or vibrating structure. This sensor will be useful when you build your balancing robot.
+
+Pinout of MPU-6050 gyroscope is shown below.
 
 ![MPU6050-3-axis-Accelerometer-Gyroscope-Module-Pinout](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/d9d95a46-4402-45a8-b94b-53d8cc3b72aa)
 
-You can test your gyroscope with the test code given in Test Codes folder in Github depository
+You can test your gyroscope with the test code given in Test Codes folder in Github depository.
+
+#### Library Installations
+To install the MPU-6050 module libraries, go to Sketch > Include Library > Manage Libraries and search for 'mpu6050'. Find out Adafruit MPU-6050 Library by Adafruit and click install. Additionally, install Adafruit Unified Sensor Driver and Adafruit Bus IO Library as The Adafruit MPU6050 library uses them.
+
+Installing these libraries will also allow you to reach the Example codes for MPU-6050 in Arduino IDE. You can also use Visual Studio Code Platformio extension for larger projects.
+
+**Remember to choose ESP32 in the Boards section in Arduino IDE and make sure you choose the correct port to be able to see your sensor data in serial monitor.
+
+
 
 #### FPGA (DE10-Lite) and Camera (D8M) Connection
 
