@@ -4,14 +4,14 @@
 
 ESP32 is a low-cost microcontroller that uses low power and equipped with WiFi ability. The pin connections of ESP32 are shown in below. 
 
-![ESP32-Pinout](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/17a501bc-b486-40cf-b4f4-56b1d6ca5614)
+![My Image](ESP32-Pinout.png)
 
 ESP32 will be located on top of the FPGA cap that you are given and will be controlling the motors via stepper motor drivers A4988 and gyroscope/ accelerometer MPU-6050 with I2C communication.
 
 #### NEMA 17 Stepper Motor
 NEMA 17 is a type of motor that will be used in this project. As balancing robot requires an accurate position control, a stepper motor is suitable for this task. NEMA 17 ia bipolar stepper motor that provides high torque with low noise and works with the 8-35V supply voltage. See the motor details in given motor datasheet. For the motor dimensions, please consider that you are given pancake type NEMA 17 motors which are more compact than standard size NEMA 17 motor.
 
-![image](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/7e7d9788-e3dc-4e75-84a9-cef0bf36b96a)
+![My Image](NEMA_17.png)
 
 
 #### Stepper Motor Driver (A4988)
@@ -25,7 +25,7 @@ To enable the driver, **RST** pin should be connected to **SLEEP** pin.
 **DIR** and **STEP** pins are input controls pins. STEP controls the microsteps of the motor and DIR controls the direction of motor rotation.
 
 
-![image](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/6d8ec04e-bafa-46b3-aae7-457e1552c2d2)
+![My Image](A4988_driver_pinout.png)
 
 Before you run the motors, you must set the maximum current on the driver, so the current flow through the motor coils does not exceed the rated current.
 You can set the current limit by adjusting the small trimmer potentiometer shown in below. 
@@ -83,7 +83,7 @@ MPU-6050 is an integrated module that has an accelerometer, gyroscope and temper
 
 Pinout of MPU-6050 gyroscope is shown below.
 
-![MPU6050-3-axis-Accelerometer-Gyroscope-Module-Pinout](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/d9d95a46-4402-45a8-b94b-53d8cc3b72aa)
+![My Image](MPU6050.png)
 
 You can test your gyroscope with the test code given in Test Codes folder in Github depository.
 
@@ -93,7 +93,6 @@ To install the MPU-6050 module libraries, go to Sketch > Include Library > Manag
 Installing these libraries will also allow you to reach the Example codes for MPU-6050 in Arduino IDE. You can also use Visual Studio Code Platformio extension for larger projects.
 
 **Remember to choose ESP32 in the Boards section in Arduino IDE and make sure you choose the correct port to be able to see your sensor data in serial monitor.
-
 
 
 #### FPGA (DE10-Lite) and Camera (D8M) Connection
