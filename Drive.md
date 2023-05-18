@@ -11,7 +11,7 @@ ESP32 will be located on top of the FPGA cap that you are given and will be cont
 #### NEMA 17 Stepper Motor
 NEMA 17 is a type of motor that will be used in this project. As balancing robot requires an accurate position control, a stepper motor is suitable for this task. NEMA 17 ia bipolar stepper motor that provides high torque with low noise and works with the 8-35V supply voltage. See the motor details in given motor datasheet. For the motor dimensions, please consider that you are given pancake type NEMA 17 motors which are more compact than standard size NEMA 17 motor.
 
-![My Image](NEMA17.png)
+![My Image](NEMA17.jpg)
 
 #### Stepper Motor Driver (A4988)
 
