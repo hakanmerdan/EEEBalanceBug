@@ -99,6 +99,6 @@ Installing these libraries will also allow you to reach the Example codes for MP
 
 #### FPGA (DE10-Lite) and Camera (D8M) Connection
 
-Use the ribbon cable to connect your Camera module (D8M) to DE10-Lite FPGA. Check the FPGA folder for reference.
+Use the ribbon cable to connect your Camera module (D8M) to DE10-Lite FPGA. Check Dr. Ed Stott's Github repository for FPGA manual as reference.
 
-
+[FPGA Manual](https://github.com/edstott/EEE2Rover)
