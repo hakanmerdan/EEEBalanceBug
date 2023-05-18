@@ -83,6 +83,8 @@ MPU-6050 is an integrated module that has an accelerometer, gyroscope and temper
 Pinout of MPU-6050 gyroscope/accelerometer is shown below.
 
 ![My Image](MPU6050-pinout.png)
+
+
 ![My Image](MPU6050.jpg)
 
 You can test your gyroscope with the test code given in Test Codes folder in Github depository.
