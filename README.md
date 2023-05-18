@@ -41,7 +41,7 @@ The system must be:
 
 Students can place illuminated beacons around the edge of the arena to use as visual datum points for mapping the arena. The beacons are powered by a solar energy system and students must manage their energy budget to support robot navigation under varying power availability.
 
-![beacon](https://github.com/hakanmerdan/EEESegway/assets/85967283/07288edc-cfc5-494b-8f9f-3574ec09b686)
+![My Image](beacons.png)
 
 The emulated power availability will vary over the order of seconds, limiting the stored energy requirement. Storage will principally be capacitors, but flywheel or gravity-based energy storage is a possibility. Batteries will not be used in the beacon system.
 The power system will have a centralised controller that can interface with the other project components.
