@@ -10,7 +10,7 @@ You will work in tutorial groups of 6 (2 EEE and 4 EIE) people to complete the p
 
 You are requested to design and build a balancing robot (segway) that can autonomously map and navigate a maze. A prototype of the design must be built and tested in the artificial maze in the lab. The maze is laid out with light strips on an arena. The arena is coloured black and surrounded by black curtains.
 
-![maze_1](https://github.com/hakanmerdan/EEESegway/assets/85967283/96d75358-97a4-448e-8e47-b80029e69f10)
+![My Image](maze_1.png)
 
 ## Requirements
 
@@ -108,18 +108,7 @@ The central PCB has connections for a motor driver module, which will simplify t
 -	3D printed chassis and mounting sockets, parts.
 -	Screws, nuts, spacers
 
-		
-### Drive
 
-*** *** (Drive_link) *** ***
-
-### Sensing
-
-*** *** (Beacon_Camera_Vision_Link) *** ***
-
-### Energy
-
-*** Energy_Link ***
 			
 ### Construction
 Mechanical design is not a core component of the EEE/EIE degree so it is left to you to be innovative in the construction of your segway.
@@ -130,9 +119,6 @@ Workshop facilities are available on arrangement with the lab technicians.
 You may wish to consider 3D printing, though you will need to research and teach yourself the necessary techniques first.
 3D printers are available to use with the help of the lab technicians.	
 
-### Demo Environment
-
-*** *** (NEED EXPLANATION AND PHOTO OF THE DEMO MAZE WHEN IT IS READY) *** ***
 
 
 ### New Skills
