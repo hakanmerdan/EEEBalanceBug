@@ -11,7 +11,7 @@ ESP32 will be located on top of the FPGA cap that you are given and will be cont
 #### NEMA 17 Stepper Motor
 NEMA 17 is a type of motor that will be used in this project. As balancing robot requires an accurate position control, a stepper motor is suitable for this task. NEMA 17 ia bipolar stepper motor that provides high torque with low noise and works with the 8-35V supply voltage. See the motor details in given motor datasheet. For the motor dimensions, please consider that you are given pancake type NEMA 17 motors which are more compact than standard size NEMA 17 motor.
 
-![My Image](NEMA_17.png)
+![My Image](NEMA17.png)
 
 
 #### Stepper Motor Driver (A4988)
@@ -81,9 +81,10 @@ After the connections made, you can test your motors with the sample code given 
 
 MPU-6050 is an integrated module that has an accelerometer, gyroscope and temperature sensor. A gyroscope is a device that measures the orientation and angular velocity. An accelerometer measures the acceleration of a moving or vibrating structure. This sensor will be useful when you build your balancing robot.
 
-Pinout of MPU-6050 gyroscope is shown below.
+Pinout of MPU-6050 gyroscope/accelerometer is shown below.
 
-![My Image](MPU6050.png)
+![My Image](MPU6050-pinout.png)
+![My Image](MPU6050.jpg)
 
 You can test your gyroscope with the test code given in Test Codes folder in Github depository.
 
