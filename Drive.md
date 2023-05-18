@@ -50,7 +50,7 @@ Sample Pin Connections are given below.
 | ESP32 Cap Pin Number  | MPU-6050 Pin Number | 
 | ------------- | ------------- |
 | SCA | SCA  | 
-| SCL | SCA  | 
+| SCL | SCL | 
 | 5V  | VDD| 
 | GND| GND  |
 
@@ -63,8 +63,8 @@ Sample Pin Connections are given below.
 | 2A  | Check the correct phase from the motor datasheet| 
 | 2B| Check the correct phase from the motor datasheet  |
 
-**Note that RST pin and Sleep pins are connected to each other in A4988.
-You can have a look at the use of Microstep selection pins MS1, MS2 and MS3.
+**Note that RST pin and Sleep pins are connected to each other in A4988.**
+**You can have a look at the use of Microstep selection pins MS1, MS2 and MS3.**
 
 #### Battery and A4988 Driver Connections
 
@@ -89,7 +89,5 @@ You can test your gyroscope with the test code given in Test Codes folder in Git
 Use the ribbon cable to connect your Camera module (D8M) to DE10-Lite FPGA. Check the FPGA folder for reference.
 
 The A4988 driver has a total of 16 pins that connect it to the outside world. The pinout is as follows:
-
-![image](https://github.com/hakanmerdan/EEESegway/assets/85967283/0e95142c-ce6a-4958-b5af-35e0e32a3478)
 
 
