@@ -94,7 +94,7 @@ To install the MPU-6050 module libraries, go to Sketch > Include Library > Manag
 
 Installing these libraries will also allow you to reach the Example codes for MPU-6050 in Arduino IDE. You can also use Visual Studio Code Platformio extension for larger projects.
 
-**Remember to choose ESP32 in the Boards section in Arduino IDE and make sure you choose the correct port to be able to see your sensor data in serial monitor.
+**Remember to choose ESP32 in the Boards section in Arduino IDE and make sure you choose the correct port to be able to see your sensor data in serial monitor.**
 
 
 #### FPGA (DE10-Lite) and Camera (D8M) Connection
