@@ -30,8 +30,7 @@ To enable the driver, **RST** pin should be connected to **SLEEP** pin.
 Before you run the motors, you must set the maximum current on the driver, so the current flow through the motor coils does not exceed the rated current.
 You can set the current limit by adjusting the small trimmer potentiometer shown in below. 
 
-
-![A4988-Current-Limiting-Potentiometer](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/cc500b2e-9e38-44dd-be0b-cef6de5d2ef9)
+![My Image](A4988-current_limiting_potentiometer.jpg)
 
 After setting the current limit, you can finalise your connections and make your stepper motor ready to be plugged in your power supply. You are suggested to put a large 100μF capacitor between VMOT and GND to prevent large voltage spikes.
 
