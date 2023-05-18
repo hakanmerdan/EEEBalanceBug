@@ -16,12 +16,12 @@ ESP32 will be located on top of the FPGA cap that you are given and will be cont
 #### Stepper Motor Driver (A4988)
 
 The A4988 has two different power supply connections as below:
-VMOT and GND: To power up the motor and it can go up to 35V.
-VDD and GND: To power the sensor internal logic circuitry, and it can be between 3.3V to 5V.
-1A, 1B, 2A and 2B output pins are for the motor connection. Our motor NEMA-17 is a bipolar stepper motor which comes 4 wires and are connected to 1A, 1B, 2A and 2B output pins.
+**VMOT and GND:** To power up the motor and it can go up to 35V.
+**VDD and GND:** To power the sensor internal logic circuitry, and it can be between 3.3V to 5V.
+**1A, 1B, 2A and 2B** output pins are for the motor connection. Our motor NEMA-17 is a bipolar stepper motor which comes 4 wires and are connected to 1A, 1B, 2A and 2B output pins.
 Stepper motor driver requires to use a heatsink as excessive power dissipation may damage the IC. Therefore, you are given heatsink for the motor drivers A4988.
-To enable the driver, RST pin should be connected to SLEEP pin.
-DIR and STEP pins are input controls pins. STEP controls the microsteps of the motor and DIR controls the direction of motor rotation.
+To enable the driver, **RST** pin should be connected to **SLEEP** pin.
+**DIR** and **STEP** pins are input controls pins. STEP controls the microsteps of the motor and DIR controls the direction of motor rotation.
 
 
 ![image](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/6d8ec04e-bafa-46b3-aae7-457e1552c2d2)
@@ -35,6 +35,23 @@ You can set the current limit by adjusting the small trimmer potentiometer shown
 After setting the current limit, you can finalise your connections and make your stepper motor ready to be plugged in your power supply. You are suggested to put a large 100μF capacitor between VMOT and GND to prevent large voltage spikes.
 
 Sample Pin Connections are given below.
+
+ESP32 and A4988 Connection
+
+| ESP32 Cap Pin Number  | A4988	Pin Number | 
+| ------------- | ------------- |
+| PIN 10 | STEP  | 
+| PIN 11 | DIR  | 
+| 5V  | VDD| 
+| GND| GND  |
+
+| ESP32 Cap Pin Number  | MPU-6050 Pin Number | 
+| ------------- | ------------- |
+| SCA | SCA  | 
+| SCL | SCA  | 
+| 5V  | VDD| 
+| GND| GND  |
+
 
 
 After the connections made, you can test your motors with the sample code given in Github page in Test Codes folder.
