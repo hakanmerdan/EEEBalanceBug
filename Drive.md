@@ -36,7 +36,7 @@ After setting the current limit, you can finalise your connections and make your
 
 Sample Pin Connections are given below.
 
-ESP32 and A4988 Connection
+#### ESP32 and A4988 Connection
 
 | ESP32 Cap Pin Number  | A4988	Pin Number | 
 | ------------- | ------------- |
@@ -45,6 +45,8 @@ ESP32 and A4988 Connection
 | 5V  | VDD| 
 | GND| GND  |
 
+#### ESP32 and MPU-6050 Connection
+
 | ESP32 Cap Pin Number  | MPU-6050 Pin Number | 
 | ------------- | ------------- |
 | SCA | SCA  | 
@@ -52,20 +54,35 @@ ESP32 and A4988 Connection
 | 5V  | VDD| 
 | GND| GND  |
 
+#### NEMA 17 and A4988 Driver Connections 
 
+| A4988 Pin Number  | NEMA 17 | 
+| ------------- | ------------- |
+| 1A | Check the correct phase from the motor datasheet | 
+| 1B | Check the correct phase from the motor datasheet | 
+| 2A  | Check the correct phase from the motor datasheet| 
+| 2B| Check the correct phase from the motor datasheet  |
 
-After the connections made, you can test your motors with the sample code given in Github page in Test Codes folder.
+**Note that RST pin and Sleep pins are connected to each other in A4988.
+You can have a look at the use of Microstep selection pins MS1, MS2 and MS3.
+
+#### Battery and A4988 Driver Connections
+
+| Battery  | NEMA 17 | 
+| ------------- | ------------- |
+| V+ | VMOT | 
+| GND | GND | 
+
+**Remember to use the large capacitor, mentioned above, 100μF between VMOT and GND to prevent large voltage spikes.
+
+After the connections made, you can test your motors with the sample code given in Github depository in Test Codes folder.
 
 #### Inertial Measurement Unit (MPU-6050)
+
+
 ![MPU6050-3-axis-Accelerometer-Gyroscope-Module-Pinout](https://github.com/hakanmerdan/EEEBalanceBug/assets/85967283/d9d95a46-4402-45a8-b94b-53d8cc3b72aa)
 
-
-
-#### Fundamentals of I2C Communication
-
-
-#### NiMH Battery Pack Connection
-
+You can test your gyroscope with the test code given in Test Codes folder in Github depository
 
 #### FPGA (DE10-Lite) and Camera (D8M) Connection
 
@@ -75,18 +92,4 @@ The A4988 driver has a total of 16 pins that connect it to the outside world. Th
 
 ![image](https://github.com/hakanmerdan/EEESegway/assets/85967283/0e95142c-ce6a-4958-b5af-35e0e32a3478)
 
-####Power Pins:
 
-![image](https://github.com/hakanmerdan/EEESegway/assets/85967283/daedb194-58b0-496c-8cbc-f96d4151f0a3)
-
-
-VDD and GND are used to power the internal logic circuitry, which can range from 3V to 5.5V.
-Whereas,
-VMOT and GND supply power to the motor, which can range from 8V to 35V.
-According to the datasheet, in order to sustain 4A, the motor supply requires a suitable decoupling capacitor close to the
-
-Microstep Selection Pins:
-The A4988 driver supports microstepping by dividing a single step into smaller steps. This is achieved by energizing the coils with intermediate current levels.
-
-
-***[ONGOING]
