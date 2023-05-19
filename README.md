@@ -53,7 +53,7 @@ The solution will typically comprise of several subsystems:
 1.	Robot mechanics and dynamic control
 2.	Robot vision
 3.	Beacon management
-4.	Navigation command and user interface
+4.	Navigation, command and user interface
 
 The solutions for the above given challenges should be and solved with teamwork
 
@@ -90,7 +90,7 @@ Marks weighting: 40%
 ## Getting started
 ### Balancing Robot (EEESegway) Kit
 
-Your EEESegway has been designed to support modification for work on this project. You will be using ARM-based microcontroller platform with a WiFi module (ESP32), you can continue to develop code using the Arduino framework and IDE.
+Your EEESegway has been designed to support modification for work on this project. You will be using a microcontroller platform with a WiFi module (ESP32), you can continue to develop code using the Arduino framework and IDE.
 The central PCB has connections for a motor driver module, which will simplify the challenge of steering and reversing your rover.
 
 #### Robot Hardware
