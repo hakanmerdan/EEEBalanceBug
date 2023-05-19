@@ -74,7 +74,7 @@ Your system should be designed to be solar powered. Ideally you would do all of 
 Whether the energy source is a real panel or an emulation you will need to do MPPT and manage the balance of supply (PV panels) and demand (your coloured beacons) throughout the demo.
 The first thing you need to do is characterise so you can assess their capabilities and how that fits in with the rest of your design.
 
-[TruOpto OPL50A23101 90x125x3mm Solar Module 5V 1.15W | Rapid Online] (https://www.rapidonline.com/truopto-opl50a23101-90x125x3mm-solar-module-5v-1-15w-55-0016)
+[TruOpto OPL50A23101 90x125x3mm Solar Module 5V 1.15W | Rapid Online](https://www.rapidonline.com/truopto-opl50a23101-90x125x3mm-solar-module-5v-1-15w-55-0016)
 
 The link above has the “datasheet” for the solar panels in your kit. It has a rated voltage and current but no I-V curve so you will need to create one of your own. To achieve this you will be using the SMPS from the EE2 Power Electronics Lab and a set of fixed value resistors. As you have only fixed resistors you will use the SMPS and adjust the duty cycle to draw different currents from the panel and measure the output voltages and currents. Your kit includes a multimeter with a current clamp to take these measurements. You should expect this to look a bit like the ones below.
 
