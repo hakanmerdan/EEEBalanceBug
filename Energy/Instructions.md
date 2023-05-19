@@ -67,7 +67,7 @@ Good practice for covering some of the most common failures:
 -	Capacity – 0.25F
 -	ESR - ~4ohms
 -	Current limit - ~380mA 5s peak
--	More Info [DSM254Q018W075PB Cornell Dubilier - CDE | Mouser United Kingdom]()
+-	More Info [DSM254Q018W075PB Cornell Dubilier - CDE | Mouser United Kingdom](https://www.mouser.co.uk/ProductDetail/Cornell-Dubilier-CDE/DSM254Q018W075PB?qs=rQFj71Wb1eXTUSitfenP%2Fw%3D%3D)
 
 ## PV System Initial Tests
 Your system should be designed to be solar powered. Ideally you would do all of your development and testing (and the final demo) using real solar panels but the sun is not reliable and we don’t have one in the UG lab. For that reason you’ll be doing a lot of your development (and all your demo) using an emulation of a PV panel.
