@@ -33,6 +33,10 @@ You can set the current limit by adjusting the small trimmer potentiometer shown
 
 After setting the current limit, you can finalise your connections and make your stepper motor ready to be plugged in your power supply. You are suggested to put a large 100μF capacitor between VMOT and GND to prevent large voltage spikes.
 
+#### Power PCB
+
+The stepper motor drivers are atatched to a PCB which incorporates connectors, power supply protection and a 5V power supply for the robot logic. You can see a diagram of the PCB [here](Drive/Stepper-Power-PCB.pdf).
+
 Sample Pin Connections are given below.
 
 #### ESP32 and A4988 Connection
